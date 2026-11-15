@@ -1,1 +1,1 @@
-{"versionCode": 294, "versionName": "1.9.226", "apkUrl": "https://github.com/shahzaibtanveer14/wolf-journal/releases/download/v1.9.226/WolfJournal.apk", "notes": "Instant Flex model added in Accounts: pick 2-Step Standard or Instant Flex when adding an account"}
+{"versionCode": 295, "versionName": "1.9.227", "apkUrl": "https://github.com/shahzaibtanveer14/wolf-journal/releases/download/v1.9.227/WolfJournal.apk", "notes": "Fix: switching Current Phase to Instant Flex in Settings now auto-applies the Flex rules (Daily 3%, Max 5% Static, Min 4 days, targets 0)"}
